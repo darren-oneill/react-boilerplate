@@ -1,7 +1,6 @@
 import React from "react";
 import { Zap } from "../assets/images/icons";
-import styled from "styled-components";
-import FlexiContainer from "../assets/Components/FlexiContainer";
+import FlexiContainer from "../components/FlexiContainer";
 
 const Home = () => (
   <FlexiContainer>

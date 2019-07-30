@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import { MAX_WIDTHS } from "../../styling/globalValues";
-import mqs from "../../styling/mqs";
+import { MAX_WIDTHS } from "../styling/globalValues";
+import mqs from "../styling/mqs";
 
 const FlexiBlockWrapper = styled.section`
   background-color: ${props => props.backgroundColor};
